@@ -1,4 +1,4 @@
-![](../../Assets/header2.jpg)
+![](../Assets/header2.jpg)
 
 <p align="center">
     <a href="https://github.com/Juanpe/SkeletonView/actions?query=workflow%3ACI">
@@ -21,7 +21,7 @@
   • <a href="#️-contributing">Katkıda Bulun</a>
 </p>
 
-**🌎 README diğer dillerde de mevcuttur: [🇬🇧](../README.md) . [🇪🇸](Translations/README_es.md) . [🇨🇳](Translations/README_zh.md) . [🇧🇷](Translations/README_pt-br.md) . [🇰🇷](Translations/README_ko.md) . [🇫🇷](Translations/README_fr.md) . [🇩🇪](Translations/README_de.md)**
+**🌎 README diğer dillerde de mevcuttur: [🇬🇧](../README.md) . [🇪🇸](README_es.md) . [🇨🇳](README_zh.md) . [🇧🇷](README_pt-br.md) . [🇰🇷](README_ko.md) . [🇫🇷](README_fr.md) . [🇩🇪](README_de.md)**
 
 Günümüzde neredeyse tüm uygulamalar, API istekleri, uzun süren işlemler vb. gibi asenkron süreçlere sahiptir. Bu işlemler çalışırken, geliştiriciler genellikle kullanıcılara bir şeylerin devam ettiğini göstermek için bir yükleme görünümü yerleştirir.
 
